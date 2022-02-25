@@ -1,0 +1,15 @@
+C:\Users\Marina\source\repos\While Loop - Exercise\01. Old Books\bin\Debug\net5.0\01. Old Books.exe
+C:\Users\Marina\source\repos\While Loop - Exercise\01. Old Books\bin\Debug\net5.0\01. Old Books.deps.json
+C:\Users\Marina\source\repos\While Loop - Exercise\01. Old Books\bin\Debug\net5.0\01. Old Books.runtimeconfig.json
+C:\Users\Marina\source\repos\While Loop - Exercise\01. Old Books\bin\Debug\net5.0\01. Old Books.runtimeconfig.dev.json
+C:\Users\Marina\source\repos\While Loop - Exercise\01. Old Books\bin\Debug\net5.0\01. Old Books.dll
+C:\Users\Marina\source\repos\While Loop - Exercise\01. Old Books\bin\Debug\net5.0\ref\01. Old Books.dll
+C:\Users\Marina\source\repos\While Loop - Exercise\01. Old Books\bin\Debug\net5.0\01. Old Books.pdb
+C:\Users\Marina\source\repos\While Loop - Exercise\01. Old Books\obj\Debug\net5.0\01. Old Books.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Marina\source\repos\While Loop - Exercise\01. Old Books\obj\Debug\net5.0\01. Old Books.AssemblyInfoInputs.cache
+C:\Users\Marina\source\repos\While Loop - Exercise\01. Old Books\obj\Debug\net5.0\01. Old Books.AssemblyInfo.cs
+C:\Users\Marina\source\repos\While Loop - Exercise\01. Old Books\obj\Debug\net5.0\01. Old Books.csproj.CoreCompileInputs.cache
+C:\Users\Marina\source\repos\While Loop - Exercise\01. Old Books\obj\Debug\net5.0\01. Old Books.dll
+C:\Users\Marina\source\repos\While Loop - Exercise\01. Old Books\obj\Debug\net5.0\ref\01. Old Books.dll
+C:\Users\Marina\source\repos\While Loop - Exercise\01. Old Books\obj\Debug\net5.0\01. Old Books.pdb
+C:\Users\Marina\source\repos\While Loop - Exercise\01. Old Books\obj\Debug\net5.0\01. Old Books.genruntimeconfig.cache

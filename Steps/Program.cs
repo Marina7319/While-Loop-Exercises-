@@ -1,0 +1,48 @@
+﻿using System;
+
+namespace Steps
+{
+    class Program
+    {
+        static void Main(string[] args)
+        {
+            int steps = 0;
+            string input = Console.ReadLine();
+       
+            while (input != "Going home")
+            {
+                steps += int.Parse(input);
+                
+                if (steps >= 10000)
+                {
+                    break;
+                }
+                if (input == "Going home")
+                {
+                    input = Console.ReadLine();
+                    steps = steps + int.Parse(input);
+
+                }
+                input = Console.ReadLine();               
+            }
+
+            if (input == "Going home")
+            {
+                input = Console.ReadLine();
+                steps =steps + int.Parse(input);
+
+            }
+            if (steps < 10000)
+            {               
+                double stepsOver = 10000 - steps;
+                Console.WriteLine($"{stepsOver} more steps to reach goal.");
+
+            }
+            else
+            {
+                Console.WriteLine("Goal reached! Good job!");
+                Console.WriteLine($"{steps - 10000} steps over the goal!");
+            }
+        }
+    }
+}

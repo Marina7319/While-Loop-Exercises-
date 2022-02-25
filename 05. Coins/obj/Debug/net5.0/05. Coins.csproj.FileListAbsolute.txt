@@ -1,0 +1,15 @@
+C:\Users\Marina\source\repos\While Loop - Exercise\05. Coins\bin\Debug\net5.0\05. Coins.exe
+C:\Users\Marina\source\repos\While Loop - Exercise\05. Coins\bin\Debug\net5.0\05. Coins.deps.json
+C:\Users\Marina\source\repos\While Loop - Exercise\05. Coins\bin\Debug\net5.0\05. Coins.runtimeconfig.json
+C:\Users\Marina\source\repos\While Loop - Exercise\05. Coins\bin\Debug\net5.0\05. Coins.runtimeconfig.dev.json
+C:\Users\Marina\source\repos\While Loop - Exercise\05. Coins\bin\Debug\net5.0\05. Coins.dll
+C:\Users\Marina\source\repos\While Loop - Exercise\05. Coins\bin\Debug\net5.0\ref\05. Coins.dll
+C:\Users\Marina\source\repos\While Loop - Exercise\05. Coins\bin\Debug\net5.0\05. Coins.pdb
+C:\Users\Marina\source\repos\While Loop - Exercise\05. Coins\obj\Debug\net5.0\05. Coins.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Marina\source\repos\While Loop - Exercise\05. Coins\obj\Debug\net5.0\05. Coins.AssemblyInfoInputs.cache
+C:\Users\Marina\source\repos\While Loop - Exercise\05. Coins\obj\Debug\net5.0\05. Coins.AssemblyInfo.cs
+C:\Users\Marina\source\repos\While Loop - Exercise\05. Coins\obj\Debug\net5.0\05. Coins.csproj.CoreCompileInputs.cache
+C:\Users\Marina\source\repos\While Loop - Exercise\05. Coins\obj\Debug\net5.0\05. Coins.dll
+C:\Users\Marina\source\repos\While Loop - Exercise\05. Coins\obj\Debug\net5.0\ref\05. Coins.dll
+C:\Users\Marina\source\repos\While Loop - Exercise\05. Coins\obj\Debug\net5.0\05. Coins.pdb
+C:\Users\Marina\source\repos\While Loop - Exercise\05. Coins\obj\Debug\net5.0\05. Coins.genruntimeconfig.cache

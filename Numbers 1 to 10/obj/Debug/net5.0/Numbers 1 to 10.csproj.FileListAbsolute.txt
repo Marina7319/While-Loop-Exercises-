@@ -1,0 +1,16 @@
+C:\Users\Marina\source\repos\While Loop - Exercise\Numbers 1 to 10\bin\Debug\net5.0\Numbers 1 to 10.exe
+C:\Users\Marina\source\repos\While Loop - Exercise\Numbers 1 to 10\bin\Debug\net5.0\Numbers 1 to 10.deps.json
+C:\Users\Marina\source\repos\While Loop - Exercise\Numbers 1 to 10\bin\Debug\net5.0\Numbers 1 to 10.runtimeconfig.json
+C:\Users\Marina\source\repos\While Loop - Exercise\Numbers 1 to 10\bin\Debug\net5.0\Numbers 1 to 10.runtimeconfig.dev.json
+C:\Users\Marina\source\repos\While Loop - Exercise\Numbers 1 to 10\bin\Debug\net5.0\Numbers 1 to 10.dll
+C:\Users\Marina\source\repos\While Loop - Exercise\Numbers 1 to 10\bin\Debug\net5.0\ref\Numbers 1 to 10.dll
+C:\Users\Marina\source\repos\While Loop - Exercise\Numbers 1 to 10\bin\Debug\net5.0\Numbers 1 to 10.pdb
+C:\Users\Marina\source\repos\While Loop - Exercise\Numbers 1 to 10\obj\Debug\net5.0\Numbers 1 to 10.csproj.AssemblyReference.cache
+C:\Users\Marina\source\repos\While Loop - Exercise\Numbers 1 to 10\obj\Debug\net5.0\Numbers 1 to 10.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Marina\source\repos\While Loop - Exercise\Numbers 1 to 10\obj\Debug\net5.0\Numbers 1 to 10.AssemblyInfoInputs.cache
+C:\Users\Marina\source\repos\While Loop - Exercise\Numbers 1 to 10\obj\Debug\net5.0\Numbers 1 to 10.AssemblyInfo.cs
+C:\Users\Marina\source\repos\While Loop - Exercise\Numbers 1 to 10\obj\Debug\net5.0\Numbers 1 to 10.csproj.CoreCompileInputs.cache
+C:\Users\Marina\source\repos\While Loop - Exercise\Numbers 1 to 10\obj\Debug\net5.0\Numbers 1 to 10.dll
+C:\Users\Marina\source\repos\While Loop - Exercise\Numbers 1 to 10\obj\Debug\net5.0\ref\Numbers 1 to 10.dll
+C:\Users\Marina\source\repos\While Loop - Exercise\Numbers 1 to 10\obj\Debug\net5.0\Numbers 1 to 10.pdb
+C:\Users\Marina\source\repos\While Loop - Exercise\Numbers 1 to 10\obj\Debug\net5.0\Numbers 1 to 10.genruntimeconfig.cache
